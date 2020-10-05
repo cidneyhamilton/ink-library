@@ -155,6 +155,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Scoop (Act One)](http://tommartin.itch.io/scoop-act-one)
 * [The Bitter Drop](https://ladyisak.itch.io/the-bitter-drop-1)
 * [Lost in Myself](https://artsomepasta.itch.io/lost-in-myself)
+* [Dryad's Quest for Ludum Dare 47](http://cidney.itch.io/dryads-quest)
 
 #### Upcoming games
 
@@ -171,6 +172,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [MORSE](https://www.youtube.com/watch?v=6xaOfBSNJv0)
 * [Negative Nancy](https://store.steampowered.com/app/1276750/Negative_Nancy/)
 * [NeuroSlicers](https://store.steampowered.com/app/420040/NeuroSlicers/)
+* [Summer Daze at Hero-U](http://summerdazegame.com)
 
 #### Non Games
 
